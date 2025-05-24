@@ -17,6 +17,7 @@ I'm a passionate QA professional with hands-on experience in both manual and aut
 - **Testing**: Manual Testing, Functional Testing, Regression, UI/UX, API Testing (Postman)
 - **Automation**: Python, Selenium WebDriver, Edge WebDriver, PyCharm
 - **Bug Tracking**: Jira
+- **Web Technologies**: HTML, CSS, Chrome DevTools
 - **Documentation**: Excel, Test Plans, Test Cases, RTMs, Bug Reports
 - **Others**: Git, GitHub, Agile Methodologies
 
